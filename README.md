@@ -1,1 +1,3 @@
-# NGBoost_NGBoost-Reimplementation-and-Comparison-Experiments
+# NGBoost_Reimplementation-and-Comparison-Experiments
+
+Course Work for COMP620053
